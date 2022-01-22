@@ -68,6 +68,8 @@ Config 的三码无效。若要使用 iMessage 等功能，请自行解决。
 
 压缩包内附带修复耳机的文件夹，名称为 "ComboJack_Installer"。解压，修复方法参见这个链接的2、3步：[GitHub – hackintosh-stuff/ComboJack: Hackintosh combojack support for alc256/alc255.](https://github.com/hackintosh-stuff/ComboJack)
 
+SD 卡接口可能可以运行，但本人没有进行试验。可以访问[GitHub – cholonam/Sinetek-rtsx: macOS driver for Realtek SD card readers.](https://github.com/cholonam/Sinetek-rtsx)进行尝试。
+
 开启 Cfg-Lock 并非一劳永逸，当：
 
 重置 NVRAM；
