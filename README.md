@@ -67,6 +67,18 @@ macOS 的触摸板设置默认与 Windows 不同。安装过程中**请保持使
 Config 的三码无效。若要使用 iMessage 等功能，请自行解决。
 
 压缩包内附带修复耳机的文件夹，名称为 "ComboJack_Installer"。解压，修复方法参见这个链接的2、3步：[GitHub – hackintosh-stuff/ComboJack: Hackintosh combojack support for alc256/alc255.](https://github.com/hackintosh-stuff/ComboJack)
+
+开启 Cfg-Lock 并非一劳永逸，当：
+
+重置 NVRAM；
+
+更新 BIOS；
+
+在 BIOS 设置界面恢复了默认设置，
+
+的时候，Cfg-Lock 将重新关闭。您需要重新按照步骤开启。
+
+另外，建议将 DVMT 调整到 64M 以开启完美外屏4K，这里不详细介绍，请自行查找教程。
 ## 下载：
 请前往 Releases 页面。
 ## 另：
