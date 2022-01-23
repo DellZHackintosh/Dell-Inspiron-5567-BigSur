@@ -10,6 +10,8 @@
 |网卡|Intel Dual Band Wireless-AC 3165（无线）和 Realtek 有线网卡（具体型号不明）|
 |显示器|1080P（1920\*1080）|
 ## Config 信息：
+Config 修改自 aswindevsp/Dell-Inspiron-5567-BigSur 的 Config。（因此我使用了 fork）
+
 版本：OpenCore Version 0.7.7
 
 所有 kext 都已经使用最新版本（2022.1.17）
