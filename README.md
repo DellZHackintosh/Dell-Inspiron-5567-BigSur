@@ -1,4 +1,5 @@
 # Dell Inspiron 15-5567 的 OpenCore Config
+For English speakers :I'm sorry I can't provide English documents because I hardly understand English 😥... All English in this document uses machine translation (including this sentence). Please understand the inconvenience caused by this.
 ## 详细配置：
 |电脑型号   |Dell Inspiron 15-5567 笔记本|
 |  :----:    |  :----:                            |
